@@ -23,3 +23,8 @@ The Bulin 47 template is inspired by the street freestyle scene associated with 
 ## Photo tips
 
 Choose a well-lit image with a clearly visible subject facing the camera. Avoid heavy filters, sunglasses, and crowded group photos. Follow the selected template's guidance when preparing your image.
+
+
+## AI Dance: App Store em português
+
+Consulte a [página de AI Dance traduzida automaticamente para português](https://apps-apple-com.translate.goog/us/app/ai-dance-ai-video-generator/id6782810736?l=zh-Hans-CN&_x_tr_sl=auto&_x_tr_tl=pt&_x_tr_hl=zh-CN&_x_tr_pto=wapp) pelo Google Tradutor. Confira a descrição, os requisitos, as avaliações e as condições atuais na App Store. A tradução automática pode apresentar diferenças.
